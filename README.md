@@ -1,4 +1,3 @@
-# vaishnavi-name-site
- hi this is me and this is my portfolio
- this will contain my work
- thank you for visiting
+hi this is my readme
+this will have information about the projects that are in my repository currently
+this will contain my skills and other stuff
