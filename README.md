@@ -1,2 +1,3 @@
 # vaishnavi-name-site
- with read me
+this is my portfolio
+this shall contain information about me
