@@ -1,2 +1,4 @@
 # vaishnavi-name-site
- with read me
+ hi this is me and this is my portfolio
+ this will contain my work
+ thank you for visiting
